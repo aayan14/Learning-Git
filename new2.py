@@ -2,4 +2,4 @@ def diff(a, b):
     return a-b
 
 
-print(diff(2, 3))
+print("Diff:", diff(2, 3))
